@@ -9,7 +9,7 @@ This project is an investment banking app. The program is designed to help stude
 I did very well with programming the app to calculate the investment overtime based on the initial deposit, monthly investment, rate and the number of years.
 
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-My code fell short at input validation. Had I done a better job at input validation, I believe my code would have been less susceptible to invalid user entries, such as negative numbers.
+My code fell short at input validation. Had I done a better job at formatting the code for input validation it would have aligned more with the industry standards.
 
 # Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? 
 I had a hard time reducing the code in my main. Unfortunately I was not able to overcome this and my main code was not sufficiently minimised.
